@@ -1,4 +1,4 @@
-# DS24 Open Lab | Building a Custom Search Engine with Google Programmable Search API
+# DS25 Open Lab | Building a Custom Search Engine with Google Programmable Search API
 
 This repository contains the lab for demonstrating Hands-On with Building a Custom Search Engine with Google Programmable Search API. It is one of the open labs brought to you by Miracle's Innovation Labs.
 
